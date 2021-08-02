@@ -2,10 +2,10 @@ import React from 'react';
 
 //using ES6 arrow funcitons same as function Header() {}
 const Header = () => {
-    const headerStyle ={
+    const headerStyle = {
         padding: "20px 0",
         lineHeight: "1.5em"
-    }
+    };
 
     return(
         <header style={headerStyle}>
